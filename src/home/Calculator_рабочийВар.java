@@ -14,7 +14,6 @@ public class Calculator_рабочийВар {
         Scanner in = new Scanner(System.in);  // Создаем один сканер на все время работы
         do {
             try {
-            System.out.println("Введите выражение в формате: 10+3");
             //   Scanner in = new Scanner(System.in);
 
             String primer = PrimerIn(in);
